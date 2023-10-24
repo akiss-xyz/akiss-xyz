@@ -1,21 +1,16 @@
 ### Hello! 👋
 
-Thanks for stopping by! Please take a look at my pinned projects, particularly AulysEngine, the scratch-clone written in Haskell, and certainpy in Python3!
+Thanks for stopping by! I'm currently wrapping up my final year of Computer Science at the brilliant University of Warwick.
 
-#### About me
-
-I'm currently wrapping up my final year of Computer Science at the brilliant University of Warwick.
-
-On the technical front, my interests are quite broad - most topics in software engineering are interesting once you get your hands dirty with them.
+On the technical front, my interests are quite broad. Most topics in software engineering are interesting once you get your hands dirty with them.
 
 I really enjoy programming, but often this field can be lonely - I encourage you to contribute/ping me regarding any of my projects, or yours!
 
 #### I'm looking to collaborate on...
 
-- Heterogeneous computing, compiler toolchains or particular compiler steps (e.g. optimization, adapting compilers to new platforms, etc)
-- Reconfigurable computing from a software perspective. Maybe a kernel module that improves discoverability/usability of blocks loaded on an FPGA?
-- Network/packet filtering, on networks cards/FPGAs/in the kernel with BPF. More software-defined networking!
-- Games & engines.
+- Heterogeneous computing or compiler toolchains.
+- Reconfigurable computing from a software perspective.
+- Network/packet filtering, on networks cards/FPGAs/in the kernel with BPF.
 - Pen support for Emacs? I'd really like to scribble and jot down notes on top of my org files.
  
 #### I'm interested in learning...
