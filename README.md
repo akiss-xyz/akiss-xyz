@@ -1,19 +1,17 @@
-### Hello! 👋
+#### Hello! 👋 Thanks for stopping by.
 
-Thanks for stopping by! I'm currently wrapping up my final year of Computer Science at the brilliant University of Warwick.
+I really enjoy programming, but often this field can be lonely - feel free to ping me regarding any of my projects, or yours!
 
-On the technical front, my interests are quite broad. Most topics in software engineering are interesting once you get your hands dirty with them.
+My interests are quite broad. Most topics in software engineering are interesting once you get your hands dirty with them, but if I had to pick...
 
-I really enjoy programming, but often this field can be lonely - I encourage you to contribute/ping me regarding any of my projects, or yours!
-
-#### I'm looking to collaborate on...
+##### I'm looking to collaborate on...
 
 - Heterogeneous computing or compiler toolchains.
 - Reconfigurable computing from a software perspective.
 - Network/packet filtering, on networks cards/FPGAs/in the kernel with BPF.
 - Pen support for Emacs? I'd really like to scribble and jot down notes on top of my org files.
  
-#### I'm interested in learning...
+##### I'm interested in learning...
 
 - More about UVM, or RTL verification/modelling more broadly.
 - A bit about embedded/low-level tooling, such as Yocto, bitbake, and RTOS's.
