@@ -1,7 +1,5 @@
 #### Hello! 👋 Thanks for stopping by.
 
-I really enjoy programming, but often this field can be lonely - feel free to ping me regarding any of my projects, or yours!
-
 My interests are quite broad. Most topics in software engineering are interesting once you get your hands dirty with them, but if I had to pick...
 
 ##### I'm looking to collaborate on...
